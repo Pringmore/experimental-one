@@ -86,18 +86,6 @@
     </rdf:RDF>
   </svg:metadata>
   <svg:g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <svg:rect
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-       id="rect13"
-       width="190"
-       height="190"
-       x="5.064887"
-       y="22.816071" />
-  </svg:g>
-  <svg:g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
